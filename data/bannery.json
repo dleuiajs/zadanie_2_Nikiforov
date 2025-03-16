@@ -1,0 +1,17 @@
+{
+    "banner1": {
+        "file": "banner1.jpg",
+        "text": "Prvý nadpis",
+        "url": "https://example.com/1"
+    },
+    "banner2": {
+        "file": "banner2.jpg",
+        "text": "Druhý nadpis",
+        "url": "https://example.com/2"
+    },
+    "banner3": {
+        "file": "banner3.jpg",
+        "text": "Tretí nadpis",
+        "url": "https://example.com/3"
+    }
+}
